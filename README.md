@@ -1,5 +1,34 @@
-# Vue 3 + Vite
+# Twitch Extension : Vue 3 + Vite Starter
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This starter should helpyou develop your first Twitch Extension using Vue 3 and Vite
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+
+### Installation
+
+1. Clone the repository
+```sh
+   git clone
+```
+2. Install NPM packages
+```sh
+npm install
+```
+3. Start the development server
+```sh
+npm run dev
+```
+
+## Usage
+You can use this starter to develop your Twitch Extension using Vue 3 and Vite
+
+Follow the [Twitch Extensions Documentation](https://dev.twitch.tv/docs/extensions/) to start creating your extension
+
+Follow the [Vue 3 Documentation](https://v3.vuejs.org/guide/introduction.html) to learn more about Vue 3
+
+## License
+Distributed under the MIT License. See `LICENSE` for more information.
